@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm looking forward to working with amazing people in this community.
 
 <!--
 **lerderl/lerderl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
