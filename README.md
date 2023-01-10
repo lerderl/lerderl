@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm lerderl</h1>
-<h3 align="center">I'm a software engineer with sufficient expertise in designing and implementing scalable, maintainable and reliable solutions using best practices and development methodologies.</h3>
+<h3 align="center">I am a software engineer with sufficient expertise in designing and implementing scalable, maintainable and reliable solutions using best practices and development methodologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lerderl&label=Profile%20views&color=0e75b6&style=flat" alt="lerderl" /> </p>
 
