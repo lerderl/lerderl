@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://github.com/lerderl](https://github.com/lerderl)
+- 👨‍💻 All of my projects are available at [[https://github.com/lerderl](https://github.com/lerderl?tab=repositories)](https://github.com/lerderl)
 
 - 💬 Ask me about **react, html, css, javascript**
 
