@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **josepholukunle1107@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hAsk_sxe0euSxJfx4xPnzp34HM6OV9O7/view?usp=share_link](https://drive.google.com/file/d/1hAsk_sxe0euSxJfx4xPnzp34HM6OV9O7/view?usp=share_link)
+- 📄 Know about my experiences [Check me out](https://drive.google.com/file/d/1hAsk_sxe0euSxJfx4xPnzp34HM6OV9O7/view?usp=share_link)
 
 - ⚡ Fun fact **I love anything football/soccer related**
 
